@@ -1,4 +1,4 @@
-# IBM-NodeRED-Flow (THIS IS THE RIGHT ONE, HAMBURG)
+# IBM-NodeRED-Flow
 
 This repository contains the JSON code to replicate the flow that we use within the IBM CbD sessions.
 
